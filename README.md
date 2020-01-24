@@ -17,6 +17,6 @@ There are 5 possibilities.
 2 3  
 
 ## Preconditions  
-1. Total sum that you want to change should be greater than zero.  
-2. Number of coins that you have should be greater than zero.  
-3. The coin amount should be greater than zero.  
+1 Total sum that you want to change should be greater than zero.  
+2 Number of coins that you have should be greater than zero.  
+3 The coin amount should be greater than zero.  
